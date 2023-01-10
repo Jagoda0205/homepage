@@ -1,0 +1,21 @@
+
+.ssection__header {
+    color: rgb(26, 140, 140);
+    background: #ddd;
+    border-radius: 50px;
+    outline: 2px solid grey;
+    border: thick double #32a1ce;;
+    border-radius: 30px;
+    margin: 10px 5px 35px;
+    padding: 10px;
+    box-shadow: 5px 15px 29px 0px #1B1D7C;
+}
+
+.section__paragraph {
+    margin: 20px auto;
+    border: 10px solid rgb(127, 101, 8);
+    padding: 20px;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: rgb(9, 42, 72);
+}
