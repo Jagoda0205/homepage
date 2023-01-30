@@ -8,8 +8,8 @@ const toggleBackground = () => {
 const body = document.querySelector(".body");
 const themeName = document.querySelector(".themeName");
 
-body.classList.toggle("nextColorName");
-themeName.innerText = body.classList.contains("nextColorName") ? "jasny" : "ciemny";
+body.classList.toggle("dark");
+themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
 };
 
 const init = () => {
