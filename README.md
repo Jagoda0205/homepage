@@ -10,8 +10,4 @@ Welcome on my first homepage.
 You can visit my website here: https://jagoda0205.github.io/homepage/
 
 ### Technologies used in this project
-HTML
-CSS
-Javascript (ES6 + Features)
-BEM convention
-Normalize.css
+HTML, CSS, Javascript (ES6 + Features), BEM convention, Normalize.css
