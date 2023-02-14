@@ -9,16 +9,17 @@
     margin: auto;
     list-style: none;
     display: inline-block;
-    box-shadow: 12px -8px 5px 0px #E89120;
+    box-shadow: 12px -8px 5px 0px #cca470;
     
   }
   .navigation__list {
     list-style-type: none;
     padding: 15px;
+    cursor: pointer;
   }
   
   .navigation__link {
-    color: crimson;
+    color: rgb(1, 1, 1);
     text-shadow: -3px -3px 5px 5px;
     text-decoration: none;
     padding: 10px;
@@ -27,6 +28,6 @@
   }
   
   .navigation__link--places {
-    color:#17AAA1;
+    color:#7c8080;
   }
   

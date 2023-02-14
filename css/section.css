@@ -1,21 +1,21 @@
 
 .ssection__header {
-    color: #7c1878;
-    text-align: center;
-    outline: 2px solid rgb(142, 138, 138);
-    border: thick double #32a1ce;;
+    color: rgb(124, 110, 74);
+    outline: 2px solid grey;
+    border: thick double #873c11;
     border-radius: 30px;
     margin: 10px 5px 35px;
-    padding: 20px;
+    padding: 10px;
     background-color: #ddd;
-    box-shadow: 5px 15px 29px 0px #1B1D7C;
+    box-shadow: 5px 15px 29px 0px #dba94656;
 }
 
 .section__paragraph {
     margin: 20px auto;
-    border: 10px solid rgb(127, 101, 8);
+    border: 3px solid rgb(127, 101, 8);
     padding: 20px;
     font-family: 'Playfair Display', serif;
     font-family: 'Source Sans Pro', sans-serif;
-    background-color: rgb(9, 42, 72);
+    background-color: rgb(167 135 69);
+    border-radius: 30px;
 }

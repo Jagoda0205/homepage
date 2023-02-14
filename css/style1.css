@@ -9,11 +9,11 @@
 }
 
 .dark.dark {
-  background-color: rgb(73, 58, 58);
+  background-color: rgb(170, 160, 160);
 }
 
 .body {
-    background-color: #c2c285;
+    background-color: #e7e7d7;
     color: rgb(234, 232, 232);
     text-align: center;
     font-family: 'Playfair Display', serif;
@@ -31,5 +31,5 @@
   padding: 10px;
   text-align: center;
   background-color: #9d9c96ec;
-  box-shadow: 5px 15px 29px 0px #1B1D7C
+  box-shadow: 5px 15px 29px 0px #aa785b
  }

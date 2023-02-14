@@ -4,15 +4,14 @@
   
 
 .header__button {
-    color: rgb(5, 113, 5);
-    font-size: 15px;
-    font-family: 'Playfair Display', serif;
-    background-color: #d1caca;
-    box-shadow: -17px 4px 19px 2px #957594, 
-    4px 9px 21px 12px #DB9018;
-    border-radius: 80px;
-    margin: 10px auto;
-    padding: 20px;
+  color: rgb(124, 110, 74);
+  outline: 2px solid grey;
+  border: thick double #873c11;
+  border-radius: 30px;
+  margin: 10px 5px 35px;
+  padding: 10px;
+  background-color: #ddd;
+  box-shadow: 5px 15px 29px 0px #dba94656;
     
   }
   
@@ -29,21 +28,22 @@
   }
   
 .header__paragraph {
-        margin: 20px auto;
-        border: 10px solid rgb(127, 101, 8);
-        padding: 20px;
-        font-family: 'Playfair Display', serif;
-        font-family: 'Source Sans Pro', sans-serif;
-        background-color: rgb(9, 42, 72);
+  margin: 20px auto;
+  border: 3px solid rgb(127, 101, 8);
+  padding: 20px;
+  font-family: 'Playfair Display', serif;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: rgb(167 135 69);
+  border-radius: 30px;
     }
 
 .header__heading {
-      color: rgb(34, 25, 90);
-      outline: 2px solid grey;
-      border: thick double #32a1ce;;
-      border-radius: 30px;
-      margin: 10px 5px 35px;
-      padding: 10px;
-      background-color: #ddd;
-      box-shadow: 5px 15px 29px 0px #1B1D7C;
+  color: rgb(124, 110, 74);
+  outline: 2px solid grey;
+  border: thick double #873c11;
+  border-radius: 30px;
+  margin: 10px 5px 35px;
+  padding: 10px;
+  background-color: #ddd;
+  box-shadow: 5px 15px 29px 0px #dba94656;
     }
