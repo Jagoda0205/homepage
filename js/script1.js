@@ -1,23 +1,23 @@
 {
- const welcome = () => {
-  console.log("Welcome to my first page!");
- } 
+  const welcome = () => {
+    console.log("Welcome to my first page!");
+  }
 
 
-const toggleBackground = () => {
-const body = document.querySelector(".body");
-const themeName = document.querySelector(".themeName");
+  const toggleBackground = () => {
+    const body = document.querySelector(".body");
+    const themeName = document.querySelector(".themeName");
 
-body.classList.toggle("dark");
-themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
-};
+    body.classList.toggle("dark");
+    themeName.innerText = body.classList.contains("dark") ? "jasny" : "ciemny";
+  };
 
-const init = () => {
-  const button = document.querySelector(".js-header__button");
-button.addEventListener("click", toggleBackground);
+  const init = () => {
+    const button = document.querySelector(".js-header__button");
+    button.addEventListener("click", toggleBackground);
 
-welcome();
-}
+    welcome();
+  }
 
-init();
+  init();
 }
