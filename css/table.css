@@ -18,15 +18,14 @@
     }
   
     .table__caption {
-      color: rgb(124, 110, 74);
-      outline: 2px solid grey;
-      border: thick double #873c11;
-      border-radius: 30px;
-      margin: 10px 5px 35px;
-      padding: 10px;
-      background-color: #ddd;
-      box-shadow: 5px 15px 29px 0px #dba94656
-    
+      color: rgb(54, 50, 50);
+      text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-size: 21px;
+      max-width: 1000px;
+      padding: 25px 20px;
+      margin: 20px auto;
+      font-weight: 700;
       }
   
   .table__cell--header {
